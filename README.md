@@ -30,3 +30,5 @@ Java API REST Full criada com base no Bar Bem Brasil, negócio da minha família
   Cliente --> ClienteController
 
 ```
+# Importante
+Este projeto foi construído com um viés totalmente educacional para o bootcamp afim de disponibilizar uma API local, sendo possível realizar métodos post & get.
