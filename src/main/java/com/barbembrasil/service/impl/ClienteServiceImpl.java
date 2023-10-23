@@ -28,7 +28,7 @@ public class ClienteServiceImpl implements ClienteService {
     @Override
     public Cliente create(Cliente clienteCriado) {
         if (clienteRepository.existsById(clienteCriado.getId())) {
-            throw new IllegalArgumentException("This Account number already exists.");
+            throw new IllegalArgumentException("This request number already exists.");
         }
         return clienteRepository.save(clienteCriado);
     }

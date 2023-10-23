@@ -1,1 +1,1 @@
-web: java -jar build/libs/bar-bem-brasil-0.0.1-SNAPSHOT.jar
+web: java -jar build/libs/bar-bem-brasil-api-0.0.1-SNAPSHOT.jar
